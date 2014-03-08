@@ -3,7 +3,7 @@
  Author: Jordan Weiler
  Date:   April 4, 2013
 
- This program makes an image with 27 horizontal strips, each with 50 pixels.
+ This program makes an image with 27 horizontal stripes, each with 50 pixels.
  The color for the Xth strip should be:
  	X % 3 = 0 		-> B=0
  	X % 3 = 1 		-> B=126
