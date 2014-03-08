@@ -3,7 +3,7 @@
  Author: Jordan Weiler
  Date:   May 21, 2013
 
- This program produces an dog written with OpenGL. The dog is supposed to
+ This program produces a dog written with OpenGL. The dog is supposed to
  be a Cairn Terrier. In the past, it has been mistaken for a cat.
 
 =========================================================================*/
